@@ -1,0 +1,6 @@
+if SHIELD_NEWZMK
+
+config ZMK_KEYBOARD_NAME
+    default "newzmk"
+
+    endif
